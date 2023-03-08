@@ -15,7 +15,7 @@ package calculadora;
 /*
  * @see Dará fallo
  */
-public class Calculadora { // Esto es un comentario para comprobar que se actualiza en la copia local
+public class Calculadora {
 
     private int num1;
     private int num2;
