@@ -1,4 +1,4 @@
-// Rama2
+// Develop
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -15,10 +15,8 @@ package calculadora;
 /*
  * @see Dará fallo
  */
-// Cambio de develop
-public class Calculadora { // Esto es un comentario para comprobar que se actualiza en la copia local
-// Esto es una prueba para añadir comentario con comandos.
-    // Ahora modificamos en github y comprobamos con comandos
+
+public class Calculadora { 
     private int num1;
     private int num2;
 
